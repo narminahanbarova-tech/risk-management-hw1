@@ -15,13 +15,13 @@
 
 
 
-![AAPL](var_chart_AAPL.png)
+![AAPL](data/var_chart_AAPL.png)
 
 
 
 
 
-![GSPC](var_chart_GSPC.png)
+![GSPC](data/var_chart_GSPC.png)
 
 
 
